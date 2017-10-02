@@ -21,8 +21,6 @@
     "/demo/"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.0.0",
     "FileSaver.js": "eligrey/FileSaver.js"
-  },
-  "devDependencies": {}
+  }
 }
